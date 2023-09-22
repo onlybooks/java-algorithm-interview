@@ -18,6 +18,8 @@
 ★ 정오표: (아직 등록된 정오사항이 없습니다)  
 ★ 도서정보: https://www.onlybook.co.kr/entry/java-algorithm-interview
 
+★ 참고: 《파이썬 알고리즘 인터뷰》 https://github.com/onlybooks/python-algorithm-interview
+
 ![마인드맵](/assets/mindmap.png)
 
 ## 문제 풀이
